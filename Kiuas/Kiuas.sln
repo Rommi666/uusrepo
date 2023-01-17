@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiuas", "Kiuas\Kiuas.csproj", "{5407EF4D-0F99-4B54-B6D1-029ECA400348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5407EF4D-0F99-4B54-B6D1-029ECA400348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5407EF4D-0F99-4B54-B6D1-029ECA400348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5407EF4D-0F99-4B54-B6D1-029ECA400348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5407EF4D-0F99-4B54-B6D1-029ECA400348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F49D4433-7069-4FBF-A7DA-B05CC5C7C6FB}
+	EndGlobalSection
+EndGlobal

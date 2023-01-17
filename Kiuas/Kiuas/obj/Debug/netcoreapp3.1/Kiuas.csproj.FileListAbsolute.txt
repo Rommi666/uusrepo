@@ -1,0 +1,14 @@
+C:\Users\ronia\source\repos\Kiuas\Kiuas\bin\Debug\netcoreapp3.1\Kiuas.exe
+C:\Users\ronia\source\repos\Kiuas\Kiuas\bin\Debug\netcoreapp3.1\Kiuas.deps.json
+C:\Users\ronia\source\repos\Kiuas\Kiuas\bin\Debug\netcoreapp3.1\Kiuas.runtimeconfig.json
+C:\Users\ronia\source\repos\Kiuas\Kiuas\bin\Debug\netcoreapp3.1\Kiuas.runtimeconfig.dev.json
+C:\Users\ronia\source\repos\Kiuas\Kiuas\bin\Debug\netcoreapp3.1\Kiuas.dll
+C:\Users\ronia\source\repos\Kiuas\Kiuas\bin\Debug\netcoreapp3.1\Kiuas.pdb
+C:\Users\ronia\source\repos\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.csproj.AssemblyReference.cache
+C:\Users\ronia\source\repos\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronia\source\repos\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.AssemblyInfoInputs.cache
+C:\Users\ronia\source\repos\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.AssemblyInfo.cs
+C:\Users\ronia\source\repos\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.csproj.CoreCompileInputs.cache
+C:\Users\ronia\source\repos\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.dll
+C:\Users\ronia\source\repos\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.pdb
+C:\Users\ronia\source\repos\Kiuas\Kiuas\obj\Debug\netcoreapp3.1\Kiuas.genruntimeconfig.cache

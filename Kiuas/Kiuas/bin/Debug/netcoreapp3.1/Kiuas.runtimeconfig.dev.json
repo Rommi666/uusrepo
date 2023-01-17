@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ronia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ronia\\.nuget\\packages"
+    ]
+  }
+}
