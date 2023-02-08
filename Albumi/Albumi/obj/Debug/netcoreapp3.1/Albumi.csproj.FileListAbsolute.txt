@@ -1,0 +1,14 @@
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\bin\Debug\netcoreapp3.1\Albumi.exe
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\bin\Debug\netcoreapp3.1\Albumi.deps.json
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\bin\Debug\netcoreapp3.1\Albumi.runtimeconfig.json
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\bin\Debug\netcoreapp3.1\Albumi.runtimeconfig.dev.json
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\bin\Debug\netcoreapp3.1\Albumi.dll
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\bin\Debug\netcoreapp3.1\Albumi.pdb
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\obj\Debug\netcoreapp3.1\Albumi.csproj.AssemblyReference.cache
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\obj\Debug\netcoreapp3.1\Albumi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\obj\Debug\netcoreapp3.1\Albumi.AssemblyInfoInputs.cache
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\obj\Debug\netcoreapp3.1\Albumi.AssemblyInfo.cs
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\obj\Debug\netcoreapp3.1\Albumi.csproj.CoreCompileInputs.cache
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\obj\Debug\netcoreapp3.1\Albumi.dll
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\obj\Debug\netcoreapp3.1\Albumi.pdb
+C:\Users\ronia\repos\uusrepo\Albumi\Albumi\obj\Debug\netcoreapp3.1\Albumi.genruntimeconfig.cache
