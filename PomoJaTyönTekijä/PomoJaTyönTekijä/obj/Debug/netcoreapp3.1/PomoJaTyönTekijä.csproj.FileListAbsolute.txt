@@ -1,0 +1,14 @@
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\bin\Debug\netcoreapp3.1\PomoJaTyönTekijä.exe
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\bin\Debug\netcoreapp3.1\PomoJaTyönTekijä.deps.json
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\bin\Debug\netcoreapp3.1\PomoJaTyönTekijä.runtimeconfig.json
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\bin\Debug\netcoreapp3.1\PomoJaTyönTekijä.runtimeconfig.dev.json
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\bin\Debug\netcoreapp3.1\PomoJaTyönTekijä.dll
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\bin\Debug\netcoreapp3.1\PomoJaTyönTekijä.pdb
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\obj\Debug\netcoreapp3.1\PomoJaTyönTekijä.csproj.AssemblyReference.cache
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\obj\Debug\netcoreapp3.1\PomoJaTyönTekijä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\obj\Debug\netcoreapp3.1\PomoJaTyönTekijä.AssemblyInfoInputs.cache
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\obj\Debug\netcoreapp3.1\PomoJaTyönTekijä.AssemblyInfo.cs
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\obj\Debug\netcoreapp3.1\PomoJaTyönTekijä.csproj.CoreCompileInputs.cache
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\obj\Debug\netcoreapp3.1\PomoJaTyönTekijä.dll
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\obj\Debug\netcoreapp3.1\PomoJaTyönTekijä.pdb
+C:\Users\ronia\source\repos\uusrepo\PomoJaTyönTekijä\PomoJaTyönTekijä\obj\Debug\netcoreapp3.1\PomoJaTyönTekijä.genruntimeconfig.cache

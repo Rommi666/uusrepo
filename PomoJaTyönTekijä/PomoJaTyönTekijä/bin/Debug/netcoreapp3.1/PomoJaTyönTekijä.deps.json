@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PomoJaTyönTekijä/1.0.0": {
+        "runtime": {
+          "PomoJaTyönTekijä.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PomoJaTyönTekijä/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
