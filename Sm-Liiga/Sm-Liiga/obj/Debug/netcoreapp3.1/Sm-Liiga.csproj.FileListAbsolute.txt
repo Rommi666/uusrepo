@@ -1,0 +1,14 @@
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\bin\Debug\netcoreapp3.1\Sm-Liiga.exe
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\bin\Debug\netcoreapp3.1\Sm-Liiga.deps.json
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\bin\Debug\netcoreapp3.1\Sm-Liiga.runtimeconfig.json
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\bin\Debug\netcoreapp3.1\Sm-Liiga.runtimeconfig.dev.json
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\bin\Debug\netcoreapp3.1\Sm-Liiga.dll
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\bin\Debug\netcoreapp3.1\Sm-Liiga.pdb
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\obj\Debug\netcoreapp3.1\Sm-Liiga.csproj.AssemblyReference.cache
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\obj\Debug\netcoreapp3.1\Sm-Liiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\obj\Debug\netcoreapp3.1\Sm-Liiga.AssemblyInfoInputs.cache
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\obj\Debug\netcoreapp3.1\Sm-Liiga.AssemblyInfo.cs
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\obj\Debug\netcoreapp3.1\Sm-Liiga.csproj.CoreCompileInputs.cache
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\obj\Debug\netcoreapp3.1\Sm-Liiga.dll
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\obj\Debug\netcoreapp3.1\Sm-Liiga.pdb
+C:\Users\ronia\source\repos\uusrepo\Sm-Liiga\Sm-Liiga\obj\Debug\netcoreapp3.1\Sm-Liiga.genruntimeconfig.cache
