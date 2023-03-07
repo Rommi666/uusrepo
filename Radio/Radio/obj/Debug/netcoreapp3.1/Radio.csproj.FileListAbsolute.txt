@@ -1,0 +1,14 @@
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\bin\Debug\netcoreapp3.1\Radio.exe
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\bin\Debug\netcoreapp3.1\Radio.deps.json
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\bin\Debug\netcoreapp3.1\Radio.runtimeconfig.json
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\bin\Debug\netcoreapp3.1\Radio.runtimeconfig.dev.json
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\bin\Debug\netcoreapp3.1\Radio.dll
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\bin\Debug\netcoreapp3.1\Radio.pdb
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\obj\Debug\netcoreapp3.1\Radio.csproj.AssemblyReference.cache
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\obj\Debug\netcoreapp3.1\Radio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\obj\Debug\netcoreapp3.1\Radio.AssemblyInfoInputs.cache
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\obj\Debug\netcoreapp3.1\Radio.AssemblyInfo.cs
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\obj\Debug\netcoreapp3.1\Radio.csproj.CoreCompileInputs.cache
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\obj\Debug\netcoreapp3.1\Radio.dll
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\obj\Debug\netcoreapp3.1\Radio.pdb
+C:\Users\ronia\source\repos\uusrepo\Radio\Radio\obj\Debug\netcoreapp3.1\Radio.genruntimeconfig.cache
