@@ -2,7 +2,7 @@
     x:Class="WpfTutorialSamples.ListBox_control.ListBoxSelectionSample"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    Title="ListBoxSelectionSample"
+    Title="RandomListanHallinta"
     Width="450"
     Height="250">
     <DockPanel Margin="10">
