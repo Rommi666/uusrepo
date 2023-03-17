@@ -1,0 +1,45 @@
+﻿<Window
+    x:Class="WpfTutorialSamples.ListBox_control.ListBoxSelectionSample"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="ListBoxSelectionSample"
+    Width="450"
+    Height="250">
+    <DockPanel Margin="10">
+        <StackPanel Margin="10,0" DockPanel.Dock="Right">
+            <StackPanel.Resources>
+                <Style TargetType="Button">
+                    <Setter Property="Margin" Value="0,0,0,5" />
+                </Style>
+            </StackPanel.Resources>
+            <TextBlock Margin="0,0,0,10" FontWeight="Bold">Random listan hallinta</TextBlock>
+            <Button Name="btnShowSelectedItem" Click="btnShowSelectedItem_Click">Näytä Valitut</Button>
+            <Button Name="btnSelectLast" Click="btnSelectLast_Click">Viimeinen</Button>
+            <Button Name="btnSelectNext" Click="btnSelectNext_Click">Seuraava</Button>
+            <Button Name="btnSelectCSharp" Click="btnSelectCSharp_Click">Valitse C#</Button>
+            <Button Name="btnSelectAll" Click="btnSelectAll_Click">Valitse kaikki</Button>
+        </StackPanel>
+        <ListBox
+            Name="lbTodoList"
+            HorizontalContentAlignment="Stretch"
+            SelectionChanged="lbTodoList_SelectionChanged"
+            SelectionMode="Extended">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="0,2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="100" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="{Binding Title}" />
+                        <ProgressBar
+                            Grid.Column="1"
+                            Maximum="100"
+                            Minimum="0"
+                            Value="{Binding Completion}" />
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </DockPanel>
+</Window>
