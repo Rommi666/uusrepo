@@ -1,2 +1,0 @@
-C:\Users\ronia\repos\uusrepo\nodejspalvelinsovellus\nodejspalvelinsovellus\obj\Debug\nodejspalvelinsovellus.esproj.SuggestedBindingRedirects.cache
-C:\Users\ronia\repos\uusrepo\nodejspalvelinsovellus\nodejspalvelinsovellus\obj\Debug\nodejspalvelinsovellus.esproj.CoreCompileInputs.cache

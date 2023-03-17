@@ -1,5 +1,0 @@
-C:\Users\ronia\repos\uusrepo\OpiskelijatTalteen\OpiskelijatTalteen\obj\Debug\net7.0\OpiskelijatTalteen.csproj.AssemblyReference.cache
-C:\Users\ronia\repos\uusrepo\OpiskelijatTalteen\OpiskelijatTalteen\obj\Debug\net7.0\OpiskelijatTalteen.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ronia\repos\uusrepo\OpiskelijatTalteen\OpiskelijatTalteen\obj\Debug\net7.0\OpiskelijatTalteen.AssemblyInfoInputs.cache
-C:\Users\ronia\repos\uusrepo\OpiskelijatTalteen\OpiskelijatTalteen\obj\Debug\net7.0\OpiskelijatTalteen.AssemblyInfo.cs
-C:\Users\ronia\repos\uusrepo\OpiskelijatTalteen\OpiskelijatTalteen\obj\Debug\net7.0\OpiskelijatTalteen.csproj.CoreCompileInputs.cache
