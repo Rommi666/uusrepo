@@ -1,0 +1,15 @@
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\bin\Debug\net7.0\korttipakka.exe
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\bin\Debug\net7.0\korttipakka.deps.json
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\bin\Debug\net7.0\korttipakka.runtimeconfig.json
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\bin\Debug\net7.0\korttipakka.dll
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\bin\Debug\net7.0\korttipakka.pdb
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\obj\Debug\net7.0\korttipakka.csproj.AssemblyReference.cache
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\obj\Debug\net7.0\korttipakka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\obj\Debug\net7.0\korttipakka.AssemblyInfoInputs.cache
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\obj\Debug\net7.0\korttipakka.AssemblyInfo.cs
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\obj\Debug\net7.0\korttipakka.csproj.CoreCompileInputs.cache
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\obj\Debug\net7.0\korttipakka.dll
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\obj\Debug\net7.0\refint\korttipakka.dll
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\obj\Debug\net7.0\korttipakka.pdb
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\obj\Debug\net7.0\korttipakka.genruntimeconfig.cache
+C:\Users\ronia\repos\uusrepo\korttipakka\korttipakka\obj\Debug\net7.0\ref\korttipakka.dll
