@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hd5Ygg5eR1OrsZoesJnaR/mrYd8KFmi9MWIgFv59GIchsRcTy5N6CCxYgzuow1GFwUX6wAgtUVPP2Ky0VeG4cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ronia\\repos\\uusrepo\\HaeOpiskelijatTalteen\\HaeOpiskelijatTalteen\\HaeOpiskelijatTalteen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ronia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

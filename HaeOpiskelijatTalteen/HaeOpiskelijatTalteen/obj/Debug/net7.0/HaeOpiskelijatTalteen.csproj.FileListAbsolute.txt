@@ -1,0 +1,17 @@
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\obj\Debug\net7.0\HaeOpiskelijatTalteen.csproj.AssemblyReference.cache
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\obj\Debug\net7.0\HaeOpiskelijatTalteen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\obj\Debug\net7.0\HaeOpiskelijatTalteen.AssemblyInfoInputs.cache
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\obj\Debug\net7.0\HaeOpiskelijatTalteen.AssemblyInfo.cs
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\obj\Debug\net7.0\HaeOpiskelijatTalteen.csproj.CoreCompileInputs.cache
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\bin\Debug\net7.0\HaeOpiskelijatTalteen.exe
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\bin\Debug\net7.0\HaeOpiskelijatTalteen.deps.json
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\bin\Debug\net7.0\HaeOpiskelijatTalteen.runtimeconfig.json
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\bin\Debug\net7.0\HaeOpiskelijatTalteen.dll
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\bin\Debug\net7.0\HaeOpiskelijatTalteen.pdb
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\obj\Debug\net7.0\HaeOpiskelijatTalteen.csproj.CopyComplete
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\obj\Debug\net7.0\HaeOpiskelijatTalteen.dll
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\obj\Debug\net7.0\refint\HaeOpiskelijatTalteen.dll
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\obj\Debug\net7.0\HaeOpiskelijatTalteen.pdb
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\obj\Debug\net7.0\HaeOpiskelijatTalteen.genruntimeconfig.cache
+C:\Users\ronia\repos\uusrepo\HaeOpiskelijatTalteen\HaeOpiskelijatTalteen\obj\Debug\net7.0\ref\HaeOpiskelijatTalteen.dll
